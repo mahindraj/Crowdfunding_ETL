@@ -8,9 +8,9 @@ In this project, we worked on crowdfunding data. Crowdfunding platforms generate
 We worked with data from various crowdfunding campaigns. This dataset includes information such as campaign IDs, company names, descriptions, contact IDs, email, first and last names, and other crowdfunding excel files. 
 
 # Types of Data Sets and Databases
-MySQL
-JupyterNotebook
-VS Code
-Excel
-MongoDB
-ERD
+1. MySQL
+2. JupyterNotebook
+3. VS Code
+4. Excel
+5. MongoDB
+6. ERD
